@@ -11,8 +11,8 @@ import requests
 def main():
 
     # URL and accessToken of API that I made in Goole Script
-    url = 'https://script.google.com/macros/s/AKfycbyvLgzaVT2swhC2bnshqNRGpx1vhSpGOqJT7MpTGTws5TUY-x8b/exec'
-    headers = {'Authorization':'Bearer' + 'ya29.a0AfH6SMC2nTY87EquaupAbeEwZv5ETAH9m92enNeFsXaF9zJoNzbRS_BPp9rH0jtlcu8MMvUmz1AMNvAZZwJM-iuKpttJBKWsIEYA3yRhc_mf8nb4__Sj9VzkjeWOO0yMaJMZSOV6ItAXtjgzshyKPYbcRTQG0pX8Z3oNqQo1lqE'}
+    url = 'https://script.google.com/macros/s/******'
+    headers = {'Authorization':'Bearer' + 'ya29.a0*******'}
     # Get input file from command
     parser = argparse.ArgumentParser()
     parser.add_argument("-input", type=str, required=True)
