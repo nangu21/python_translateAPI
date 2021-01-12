@@ -1,0 +1,1 @@
+Put something to translate into Japanese here and do "python3 en_ja_translation.py -input input.txt" in command.
