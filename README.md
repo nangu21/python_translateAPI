@@ -9,4 +9,4 @@ VScode内で完結する日英翻訳APIです。2020年度[Master the Mainframe�
 
 # 🏆 結果
 日本IBMさんから優秀賞をいただきました。
-受賞者一覧は[コチラ](https://www.ibm.com/jp-ja/it-infrastructure/z/learn/master-the-mainframe-past-championship)です。
+受賞者一覧等詳細は[コチラ](https://www.ibm.com/jp-ja/it-infrastructure/z/learn/master-the-mainframe-past-championship)です。
